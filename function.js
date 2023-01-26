@@ -8,3 +8,8 @@ function refreshStudentList() {
 }
 
 addStudent(1, refreshStudentList);
+
+function refreshPupils()
+{
+    console.log(World);
+}
